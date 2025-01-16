@@ -1,16 +1,16 @@
-## Hi there 👋
+## Yoan Baulande👋
 
-<!--
-**yoanbaulande/yoanbaulande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Degree student in Computer Science at the University of Orléans, I'm also working on an Ansible project at a company.
 
-Here are some ideas to get you started:
+🌱 Continuous learner passionate about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies 
+
+- Ansible
+- Azure
+- Docker
+- Java
+- Kubernetes
+- Linux
+- MySQL
+- Terraform
