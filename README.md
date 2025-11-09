@@ -1,6 +1,6 @@
 ## Yoan Baulande👋
 
-Master's Degree student in Computer Science at the University of Orléans, I'm also working on an Ansible project at a company.
+Working on an Ansible project at a company, Master's Degree in Computer Science.
 
 🌱 Continuous learner passionate about technology.
 
